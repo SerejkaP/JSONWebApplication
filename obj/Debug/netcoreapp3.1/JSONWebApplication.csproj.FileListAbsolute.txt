@@ -18,3 +18,4 @@ C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.dll
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.pdb
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\bin\Debug\netcoreapp3.1\data.json
