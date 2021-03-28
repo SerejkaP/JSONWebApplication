@@ -17,3 +17,7 @@ C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.pdb
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.genruntimeconfig.cache
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\bin\Debug\netcoreapp3.1\data.json
+C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.csproj.CopyComplete
