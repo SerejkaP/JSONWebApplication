@@ -10,8 +10,6 @@ C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\bin\
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.csprojAssemblyReference.cache
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.AssemblyInfoInputs.cache
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.AssemblyInfo.cs
-C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.csproj.CoreCompileInputs.cache
-C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\JSONWebApplication.RazorTargetAssemblyInfo.cache
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\JSONWebApplication.StaticWebAssets.Manifest.cache
 C:\Users\Сергей\Desktop\хихи\Задание C#\JSONWebApplication\obj\Debug\netcoreapp3.1\staticwebassets\JSONWebApplication.StaticWebAssets.xml
