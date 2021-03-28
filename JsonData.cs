@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace JSONWebApplication
 {
     //Классы для данных из data.json
-    public class Rootobject
+    public class JsonData
     {
         public Scan scan { get; set; }
         public File[] files { get; set; }
