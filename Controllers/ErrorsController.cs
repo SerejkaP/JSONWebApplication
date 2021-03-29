@@ -40,5 +40,31 @@ namespace JSONWebApplication.Controllers
             string json = jsonData.scan.errorCount.ToString();
             return json;
         }
+
+        [HttpGet("{index}")]
+        public string indexError(int index)
+        {
+            JsonDataProvider obj = new JsonDataProvider();
+            JsonData jsonData = obj.DeserializeJsonData();
+            int errorsCount = jsonData.scan.errorCount;
+            List<string> ind = new List<string>();
+            string json="";
+            for (int i = 0; i < jsonData.files.Length; i++)
+            {
+                if (jsonData.files[i].result == false)
+                {   
+                    for (int j = 0; j < jsonData.files[i].errors.Length; i++)
+                    {
+                        ind.Add( JsonConvert.SerializeObject(jsonData.files[i].filename) + JsonConvert.SerializeObject(jsonData.files[i].errors[j].error));
+                    }
+                }
+            }
+            for (int i = 0; i < ind.Count; i++)
+            {
+                if (index == i) json = ind[i];
+            }
+            return json;
+        }
+
     }
 }
