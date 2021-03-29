@@ -8,9 +8,10 @@ namespace JSONWebApplication
 {
     public class JsonDataProvider
     {
-        public void DeserializeJsonData(string[] args)
+        public JsonData DeserializeJsonData()
         {
-            var obj = JsonConvert.DeserializeObject<JsonData>(System.IO.File.ReadAllText("data.json"));
+            JsonData obj = JsonConvert.DeserializeObject<JsonData>(System.IO.File.ReadAllText("data.json"));
+            return obj;
         }
     }
 }
