@@ -2,22 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using JSONWebApplication.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
 namespace JSONWebApplication.Controllers
 {
-
-    public class querycheck
-    {
-        public int total  { get; set;}
-        public int correct { get; set; }
-        public int errors { get; set; }
-        public string[] filenames { get; set; }
-
-    }
-
     [Route("api/[controller]")]
     [ApiController]
     public class QueryController : ControllerBase
